@@ -1,0 +1,17 @@
+.DS_Store
+.ipynb_checkpoints/
+data/corona_sentiment.csv
+notebooks/clf/
+notebooks/clean/
+notebooks/drift_clf/
+deploy/clf/
+notebooks/crewai_streamlit/secrets.tomlnotebooks/db/
+.venv/
+.venv/
+notebooks/db/
+*.bin
+*.sqlite3
+.venv/
+notebooks/db/
+*.bin
+*.sqlite3
